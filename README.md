@@ -57,14 +57,7 @@ x86_64-w64-mingw32-g++ -o multibuider.exe main.cpp
 - **操作系统**: Windows 任意版本 (XP/7/8/10/11)
 - **编译工具**: MinGW-w64
 - **开发语言**: C++
-- **推荐搭配**: WSL2 (Ubuntu) 用于交叉编译
-
-## 相关项目
-
-- **XJ380 OS** - 自研 x86_64 UEFI 操作系统
-- **OpenXSKernel** - UEFI 64位系统引导程序
-- **StardustUI** - 跨平台 C++ UI 框架
-- **BridgeEngine** - 跨平台 2D 引擎
+- **适用场景**: 专为没有 WSL 支持的老旧 Windows 系统设计的多任务编译器
 
 ## 开发说明
 
