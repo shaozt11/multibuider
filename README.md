@@ -54,7 +54,7 @@ x86_64-w64-mingw32-g++ -o multibuider.exe main.cpp
 
 ## 使用环境
 
-- **操作系统**: Windows 10/11
+- **操作系统**: Windows 任意版本 (XP/7/8/10/11)
 - **编译工具**: MinGW-w64
 - **开发语言**: C++
 - **推荐搭配**: WSL2 (Ubuntu) 用于交叉编译
@@ -66,8 +66,6 @@ x86_64-w64-mingw32-g++ -o multibuider.exe main.cpp
 - **StardustUI** - 跨平台 C++ UI 框架
 - **BridgeEngine** - 跨平台 2D 引擎
 
-## 开发团队
+## 开发说明
 
-XINGJI Studios (星际工作室) - 中国学生独立开发团队
-
-> 来自人大附中朝阳学校的学生团队，专注于操作系统、游戏引擎等底层技术开发
+> 所有思路由初二学生独立思考，所有代码由豆包完成
